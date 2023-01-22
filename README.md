@@ -5,7 +5,7 @@ Progetto per il corso di Fondamenti di Visione Artificiale e Biometria e il cors
 ## Introduzione
 Lo scopo del progetto è quello di realizzare un sistema di riconoscimento che utilizzi video contenenti solo l'area labiale, e valutare se conoscere la lingua del soggetto (che deve essere identificata) permetta di ottenere risultati migliori. Il progetto contiene anche un'analisi iniziale su alcuni dei requisiti non funzionali (fairness ed explainability).
 
-##
+---
 
 #### [Codice](../main/Codice):
 
