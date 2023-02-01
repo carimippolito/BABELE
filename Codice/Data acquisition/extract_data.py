@@ -14,6 +14,7 @@ from scipy.spatial import distance
 import csv
 
 VIDEO_INPUT_PATH = r""
+# You can get the predictor file from: http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2
 PREDICTOR_PATH = r""
 FRAME_SIZE = (300, 200)
 # Draw the landmarks on the ROI
